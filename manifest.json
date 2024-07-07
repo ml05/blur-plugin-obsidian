@@ -1,0 +1,12 @@
+{
+	"id": "spoiler-alert",
+	"name": "Spoiler Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin to blur text in Obsidian.",
+	"author": "Matias Aguilera",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": true,
+	"styles": ["styles.css"]
+}
